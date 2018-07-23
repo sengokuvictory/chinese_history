@@ -1,2 +1,3 @@
 # chinese_history
 a neo4j-based graphic representation of major Historic Events in China
+and probably the result of the world...
